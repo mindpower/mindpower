@@ -14,4 +14,4 @@ I am an Engineering Lead at Google and a Working Group Chair at the Agentic AI F
 ### 🌐 Let's Connect
 
 * 💼 **LinkedIn:** [linkedin.com/in/junjiebu](https://www.linkedin.com/in/junjiebu)
-* 📖 **ARD Announcement:** Read the official launch on the [Google Developer Blog]([https://developers.googleblog.com/](https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification/))
+* 📖 **ARD Announcement:** Read the official launch on the [Google Developer Blog](https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification/)
