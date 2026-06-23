@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there, I'm Junjie 👋
 
-<!--
-**mindpower/mindpower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Engineering Lead at Google and a Working Group Chair at the Agentic AI Foundation (AAIF). My core focus is building the open, decentralized infrastructure and protocols for the agentic web.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Focus
+
+* **Agentic Resource Discovery (ARD):** Co-authored the [ARD Specification](https://github.com/ards-project/ard-spec) alongside Microsoft to standardize how AI agents securely publish, discover, and verify capabilities.
+* **AI-Catalog**: Open-source initiative under the Linux Foundation to enable discovery of AI services and related artifacts through a standardized [AI Catalog specification](https://github.com/Agent-Card/ai-catalog).
+* **Agentic AI Foundation (AAIF):** Serving as Chair for the [Taxonomy & Landscape Workstream](https://github.com/aaif/ws-taxonomy-landscape) and Co-Chair for the [Security & Privacy Working Group](https://github.com/aaif/wg-security-and-privacy).
+* **AI Platforms & Scale:** Over 14 years at Google building massive-scale distributed systems, from the core Ads ML ecosystem (500K QPS) to driving LLM-driven schema generation for AppSheet.
+
+### 🌐 Let's Connect
+
+* 💼 **LinkedIn:** [linkedin.com/in/junjiebu](https://www.linkedin.com/in/junjiebu)
+* 📖 **ARD Announcement:** Read the official launch on the [Google Developer Blog]([https://developers.googleblog.com/](https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification/))
