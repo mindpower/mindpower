@@ -1,9 +1,3 @@
-### Hi there, I'm Junjie 👋
-
-I am an Engineering Lead at Google and a Working Group Chair at the Agentic AI Foundation (AAIF). My core focus is building the open, decentralized infrastructure and protocols for the agentic web.
-
----
-
 ### 🚀 Current Focus
 
 * **Agentic Resource Discovery (ARD):** Co-authored the [ARD Specification](https://github.com/ards-project/ard-spec) alongside Microsoft, Hugging Face to standardize how AI agents securely publish, discover, and verify capabilities.
